@@ -13,7 +13,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Swift, Python**
-- 🌍 I speak Russiam
+- 🌍 I speak Russian
 
 ---
 
